@@ -1,4 +1,5 @@
 ## What's this?
+This is a central repository that contains backend stuff for my upcoming FNaF fangame. This will be useful for making changes to game variables, such as characters, and uploading them as patches to update the game without downloading a new client version.<br><br>
 This repository was not intended for the public, but it's easier to make it work that way, and you might like it, so take it!
 
 ## Contributions
