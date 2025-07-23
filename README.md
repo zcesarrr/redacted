@@ -10,6 +10,6 @@ After the first **public release** of the game is out, you can contribute in the
 **NOTE:** I'm not accepting any pull requests made before the first public release.<br>
 **NOTE 2:** The keynames in the files will be obfuscated while the game is under development until the reveal is announced.<br>
 ***
-FOLLOW THE UPDATES ON THE PROJECT ON:
+FOLLOW THE PROJECT UPDATES ON:
 - [GameJolt](https://gamejolt.com/@CesarZ)
 - [Bluesky](cesarz.bsky.social)
